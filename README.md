@@ -19,4 +19,4 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmnek istediğinizi tartışmak için bir konu açınız.
 
 ## Lisance
-[MIT] (https://www.google.com.tr/)
+[MIT](https://www.google.com.tr/)
